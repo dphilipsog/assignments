@@ -1,0 +1,128 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         438
+	Most common values:    None (105x)
+	                       V000129 (32x)
+	                       P000588 (31x)
+	                       V000132 (29x)
+	                       R000487 (26x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         461
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (33x)
+	                       HON. DAVID G. VALADAO (32x)
+	                       HON. STEVAN PEARCE (31x)
+	                       HON. FILEMON VELA (29x)
+	                       HON. EDWARD R. ROYCE (26x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    2017Q1 (2864x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         8
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (2759x)
+	                       GENERAL EXPENDITURES (57x)
+	                       ADMIN AND OPS (28x)
+	                       NEW MEMBERS ORIENTATION (10x)
+	                       WOUNDED WARRIOR EXPENSES (6x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    TRAVEL (2864x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         72
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-02-16 (114x)
+	                       2017-01-24 (89x)
+	                       2017-03-27 (88x)
+	                       2017-03-24 (88x)
+	                       2017-03-21 (75x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    AP (2864x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2224
+	Most common values:    E0499264 (8x)
+	                       E0497162 (8x)
+	                       E0479369 (8x)
+	                       E0498521 (8x)
+	                       E0487406 (7x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         353
+	Most common values:    CITIBANK GOV CARD SERVICE (2099x)
+	                       HON ANNA ESHOO (19x)
+	                       HON GENE GREEN (18x)
+	                       HON. JACKIE SPEIER (16x)
+	                       HON. JASON CHAFFETZ (14x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         195
+	Smallest value:        2014-01-31
+	Largest value:         2017-12-30
+	Most common values:    2017-01-06 (149x)
+	                       2017-01-02 (148x)
+	                       2017-01-13 (125x)
+	                       2017-01-30 (101x)
+	                       2017-02-03 (88x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         190
+	Smallest value:        2014-01-31
+	Largest value:         2017-12-30
+	Most common values:    2017-01-02 (177x)
+	                       2017-01-13 (104x)
+	                       2017-01-30 (101x)
+	                       2017-02-27 (88x)
+	                       2017-02-03 (83x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    COMMERCIAL TRANSPORTATION (2864x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1943
+	Most common values:    
