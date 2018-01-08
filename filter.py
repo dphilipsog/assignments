@@ -15,6 +15,6 @@ writer.writeheader()
 # loop through the rows in the original csv
 for row in reader:
 	# filter rows
-    if row['PURPOSE'] == 'COMMERCIAL TRANSPORTATION' and float(row['AMOUNT']) > 222:
+    if row['contraband_found'] == 'TRUE':
     	# write rows that match above filter
         writer.writerow(row)
